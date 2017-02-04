@@ -1,2 +1,1 @@
-# BlakeRedwolf.github.io
-*
+# Basic-Portfolio
