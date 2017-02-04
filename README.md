@@ -1,0 +1,2 @@
+# BlakeRedwolf.github.io
+*
